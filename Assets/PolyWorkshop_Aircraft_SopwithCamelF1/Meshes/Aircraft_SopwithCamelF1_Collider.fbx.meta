@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 61eadc4b08628a7478cf922fbd7e37d1
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aircraft_SopwithCamelF1_Body_Collider
+    100002: Aircraft_SopwithCamelF1_BottomWingLeft_Collider
+    100004: Aircraft_SopwithCamelF1_BottomWingRight_Collider
+    100006: //RootNode
+    100008: Aircraft_SopwithCamelF1_Collider_01
+    100010: Aircraft_SopwithCamelF1_Collider_02
+    100012: Aircraft_SopwithCamelF1_Collider_03
+    100014: Aircraft_SopwithCamelF1_Collider_04
+    100016: Aircraft_SopwithCamelF1_Collider_05
+    100018: Aircraft_SopwithCamelF1_Collider_06
+    100020: Aircraft_SopwithCamelF1_Collider_07
+    100022: Aircraft_SopwithCamelF1_Collider_08
+    100024: Aircraft_SopwithCamelF1_Collider_09
+    100026: Aircraft_SopwithCamelF1_Collider_10
+    100028: Aircraft_SopwithCamelF1_Collider_11
+    100030: Aircraft_SopwithCamelF1_Collider_12
+    100032: Aircraft_SopwithCamelF1_Collider_13
+    100034: Aircraft_SopwithCamelF1_Elevators_Collider
+    100036: Aircraft_SopwithCamelF1_Leg_Collider
+    100038: Aircraft_SopwithCamelF1_Propeller_Collider
+    100040: Aircraft_SopwithCamelF1_Rudder_Collider
+    100042: Aircraft_SopwithCamelF1_WheelLeft_Collider.001
+    100044: Aircraft_SopwithCamelF1_WheelRight_Collider
+    100046: Aircraft_SopwithCamelF1_Elevators_Collider.001
+    100048: Aircraft_SopwithCamelF1_TopWings_Collider
+    400000: Aircraft_SopwithCamelF1_Body_Collider
+    400002: Aircraft_SopwithCamelF1_BottomWingLeft_Collider
+    400004: Aircraft_SopwithCamelF1_BottomWingRight_Collider
+    400006: //RootNode
+    400008: Aircraft_SopwithCamelF1_Collider_01
+    400010: Aircraft_SopwithCamelF1_Collider_02
+    400012: Aircraft_SopwithCamelF1_Collider_03
+    400014: Aircraft_SopwithCamelF1_Collider_04
+    400016: Aircraft_SopwithCamelF1_Collider_05
+    400018: Aircraft_SopwithCamelF1_Collider_06
+    400020: Aircraft_SopwithCamelF1_Collider_07
+    400022: Aircraft_SopwithCamelF1_Collider_08
+    400024: Aircraft_SopwithCamelF1_Collider_09
+    400026: Aircraft_SopwithCamelF1_Collider_10
+    400028: Aircraft_SopwithCamelF1_Collider_11
+    400030: Aircraft_SopwithCamelF1_Collider_12
+    400032: Aircraft_SopwithCamelF1_Collider_13
+    400034: Aircraft_SopwithCamelF1_Elevators_Collider
+    400036: Aircraft_SopwithCamelF1_Leg_Collider
+    400038: Aircraft_SopwithCamelF1_Propeller_Collider
+    400040: Aircraft_SopwithCamelF1_Rudder_Collider
+    400042: Aircraft_SopwithCamelF1_WheelLeft_Collider.001
+    400044: Aircraft_SopwithCamelF1_WheelRight_Collider
+    400046: Aircraft_SopwithCamelF1_Elevators_Collider.001
+    400048: Aircraft_SopwithCamelF1_TopWings_Collider
+    2100000: No Name
+    2300000: Aircraft_SopwithCamelF1_Body_Collider
+    2300002: Aircraft_SopwithCamelF1_BottomWingLeft_Collider
+    2300004: Aircraft_SopwithCamelF1_BottomWingRight_Collider
+    2300006: Aircraft_SopwithCamelF1_Collider_01
+    2300008: Aircraft_SopwithCamelF1_Collider_02
+    2300010: Aircraft_SopwithCamelF1_Collider_03
+    2300012: Aircraft_SopwithCamelF1_Collider_04
+    2300014: Aircraft_SopwithCamelF1_Collider_05
+    2300016: Aircraft_SopwithCamelF1_Collider_06
+    2300018: Aircraft_SopwithCamelF1_Collider_07
+    2300020: Aircraft_SopwithCamelF1_Collider_08
+    2300022: Aircraft_SopwithCamelF1_Collider_09
+    2300024: Aircraft_SopwithCamelF1_Collider_10
+    2300026: Aircraft_SopwithCamelF1_Collider_11
+    2300028: Aircraft_SopwithCamelF1_Collider_12
+    2300030: Aircraft_SopwithCamelF1_Collider_13
+    2300032: Aircraft_SopwithCamelF1_Elevators_Collider
+    2300034: Aircraft_SopwithCamelF1_Leg_Collider
+    2300036: Aircraft_SopwithCamelF1_Propeller_Collider
+    2300038: Aircraft_SopwithCamelF1_Rudder_Collider
+    2300040: Aircraft_SopwithCamelF1_WheelLeft_Collider.001
+    2300042: Aircraft_SopwithCamelF1_WheelRight_Collider
+    2300044: Aircraft_SopwithCamelF1_Elevators_Collider.001
+    2300046: Aircraft_SopwithCamelF1_TopWings_Collider
+    3300000: Aircraft_SopwithCamelF1_Body_Collider
+    3300002: Aircraft_SopwithCamelF1_BottomWingLeft_Collider
+    3300004: Aircraft_SopwithCamelF1_BottomWingRight_Collider
+    3300006: Aircraft_SopwithCamelF1_Collider_01
+    3300008: Aircraft_SopwithCamelF1_Collider_02
+    3300010: Aircraft_SopwithCamelF1_Collider_03
+    3300012: Aircraft_SopwithCamelF1_Collider_04
+    3300014: Aircraft_SopwithCamelF1_Collider_05
+    3300016: Aircraft_SopwithCamelF1_Collider_06
+    3300018: Aircraft_SopwithCamelF1_Collider_07
+    3300020: Aircraft_SopwithCamelF1_Collider_08
+    3300022: Aircraft_SopwithCamelF1_Collider_09
+    3300024: Aircraft_SopwithCamelF1_Collider_10
+    3300026: Aircraft_SopwithCamelF1_Collider_11
+    3300028: Aircraft_SopwithCamelF1_Collider_12
+    3300030: Aircraft_SopwithCamelF1_Collider_13
+    3300032: Aircraft_SopwithCamelF1_Elevators_Collider
+    3300034: Aircraft_SopwithCamelF1_Leg_Collider
+    3300036: Aircraft_SopwithCamelF1_Propeller_Collider
+    3300038: Aircraft_SopwithCamelF1_Rudder_Collider
+    3300040: Aircraft_SopwithCamelF1_WheelLeft_Collider.001
+    3300042: Aircraft_SopwithCamelF1_WheelRight_Collider
+    3300044: Aircraft_SopwithCamelF1_Elevators_Collider.001
+    3300046: Aircraft_SopwithCamelF1_TopWings_Collider
+    4300000: Aircraft_SopwithCamelF1_Rudder_Collider
+    4300002: Aircraft_SopwithCamelF1_Leg_Collider
+    4300004: Aircraft_SopwithCamelF1_Elevators_Collider
+    4300006: Aircraft_SopwithCamelF1_Collider_12
+    4300008: Aircraft_SopwithCamelF1_Collider_13
+    4300010: Aircraft_SopwithCamelF1_Collider_11
+    4300012: Aircraft_SopwithCamelF1_Collider_10
+    4300014: Aircraft_SopwithCamelF1_Collider_09
+    4300016: Aircraft_SopwithCamelF1_Collider_08
+    4300018: Aircraft_SopwithCamelF1_Collider_07
+    4300020: Aircraft_SopwithCamelF1_Collider_06
+    4300022: Aircraft_SopwithCamelF1_BottomWingRight_Collider
+    4300024: Aircraft_SopwithCamelF1_BottomWingLeft_Collider
+    4300026: Aircraft_SopwithCamelF1_Body_Collider
+    4300028: Aircraft_SopwithCamelF1_Propeller_Collider
+    4300030: Aircraft_SopwithCamelF1_Collider_03
+    4300032: Aircraft_SopwithCamelF1_Collider_02
+    4300034: Aircraft_SopwithCamelF1_Collider_05
+    4300036: Aircraft_SopwithCamelF1_Collider_04
+    4300038: Aircraft_SopwithCamelF1_Collider_01
+    4300040: Aircraft_SopwithCamelF1_WheelRight_Collider
+    4300042: Aircraft_SopwithCamelF1_WheelLeft_Collider.001
+    4300044: Aircraft_SopwithCamelF1_Elevators_Collider.001
+    4300046: Aircraft_SopwithCamelF1_TopWings_Collider
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
